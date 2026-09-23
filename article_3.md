@@ -1,6 +1,6 @@
 # **Dream Job**
 
-<img src="caphe.jpg" width="400">
+<img src="caphe.jpg" width="500">
 
 ## **Finally, I run my own childhood dream cafe**
 * I invited my friends in Canada to come to my cafe
