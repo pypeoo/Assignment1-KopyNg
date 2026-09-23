@@ -1,6 +1,6 @@
 # **Dream Job**
 
-![myjob](caphe.jpg)
+<img src="caphe.jpg" width="400">
 
 ## **Finally, I'm rich enough to run a personal cafe**
 * I invited my friends in Canada to come to my cafe
