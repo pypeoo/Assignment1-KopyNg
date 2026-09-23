@@ -1,6 +1,6 @@
 # 👨‍👩‍👧‍👦 **Family Goals**
 
-![family time](fam.img)
+![family time](images/fam.img)
 
 ## What I've Achieved
 * **Stable Life:** I bought my family a private house in Dalat with my own money.
