@@ -1,7 +1,6 @@
 # **PET TIME!**
 
-![my pets pictured by me](<img src="pets.webp" width="400">)
-
+<img src="pets.webp" width="400">
 
 ## **You know what?**
 * I adopted 2 French Kittens - They're so adorable
