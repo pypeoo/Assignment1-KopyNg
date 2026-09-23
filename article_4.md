@@ -1,3 +1,8 @@
-Recreational 
+# **Fun Time No Stress**
 
-![recreationa](<img width="1000" height="680" alt="image" src="https://github.com/user-attachments/assets/df6ca16d-c701-43d7-8741-e132ab616d26" />)
+![recreationa](camping.jpg)
+
+**I love the fresh air**
+* My boyfriend takes us to Vancouver twice a month to enjoy the natural scenario.
+* Picking mushrooms is my favorite part, I'm a professional now.
+* You should go with us sometimes, it's so refreshing.
