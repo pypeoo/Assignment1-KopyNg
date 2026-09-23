@@ -1,4 +1,4 @@
-# 👨‍👩‍👧‍👦 **Family Goals**
+# 🧑‍🧑‍🧒**Family Goals**
 
 ![family time](fam.jpg)
 
