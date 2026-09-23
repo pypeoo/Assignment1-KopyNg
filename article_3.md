@@ -9,6 +9,5 @@
 * Our best seller is Cheezi Matcha (my fav)
 
 
-![my pets pictured by me](pets.webp)
 
 
