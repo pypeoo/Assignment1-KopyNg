@@ -1,6 +1,6 @@
 # **Fun Time No Stress**
 
-![recreationa](camping.jpg)
+<img src="caphe.jpg" width="500">
 
 **Hiking & Camping**
 * My boyfriend takes us to Vancouver twice a month to enjoy the natural scenario.
